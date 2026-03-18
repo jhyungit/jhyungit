@@ -58,7 +58,7 @@
 ## 🧠 Algorithm
 
 ### 개인 학습
-- BOJ / 프로그래머스 문제 풀이  
+- 프로그래머스 문제 풀이  
 👉 [coding_test_practice](https://github.com/jhyungit/coding_test_practice)
 
 ### 스터디 운영
