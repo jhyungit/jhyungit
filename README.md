@@ -72,7 +72,7 @@
 👉 https://github.com/jhyungit/coding_test_practice
 
 ### 스터디 운영
-- SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유
+- SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유  
 👉 https://github.com/jhyungit/SsafyDevCT
 
 ---
