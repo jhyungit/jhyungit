@@ -32,14 +32,14 @@
 
 ## 🔧 Tech Stack
 
-💻 **Backend**
+### 💻 Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-🗄️ **Database**
+### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-📊 **Data & ML**
+### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
@@ -52,7 +52,7 @@
 - 사용자 특성 기반 추천 로직 개발
 - Cosine Similarity 기반 유사도 계산 적용
 
-👉 https://github.com/jhyungit/Final_project
+🔗 https://github.com/jhyungit/Final_project
 
 ---
 
@@ -61,14 +61,14 @@
 - 데이터 전처리 및 시각화 수행
 - Linear Regression / RandomForest 모델 비교 분석
 
-👉 https://github.com/jhyungit/ML_baseball_project
+🔗 https://github.com/jhyungit/ML_baseball_project
 
 ---
 
 ## 🏆 Highlights
 - 추천 시스템 프로젝트, **동아일보 기사 소개**
 
-👉 https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont
+🔗 https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont
 
 ---
 
@@ -77,12 +77,12 @@
 ### 개인 학습
 - 프로그래머스 문제 풀이
 
-👉 https://github.com/jhyungit/coding_test_practice
+🔗 https://github.com/jhyungit/coding_test_practice
 
 ### 스터디 운영
 - SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유
 
-👉 https://github.com/jhyungit/SsafyDevCT
+🔗 https://github.com/jhyungit/SsafyDevCT
 
 ---
 
