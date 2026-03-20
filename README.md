@@ -14,6 +14,7 @@
 ---
 
 ## 🧑‍💻 About Me
+- 문제 해결 중심의 개발을 지향하며, 성능과 효율을 고민하는 개발자
 - SSAFY 15기 Java 전공반
 - Python & Java 기반 백엔드 개발
 - 데이터 분석 및 머신러닝 프로젝트 경험
@@ -44,6 +45,7 @@
 - 콘텐츠 기반 필터링 추천 시스템 설계 및 구현  
 - 사용자 특성 기반 추천 로직 개발  
 - Cosine Similarity 기반 유사도 계산 적용
+
 👉 https://github.com/jhyungit/Final_project
 
 ---
@@ -76,6 +78,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhyungit&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyungit&layout=compact" />
 </p>
 
