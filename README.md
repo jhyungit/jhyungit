@@ -60,7 +60,8 @@
 ---
 
 ## 🏆 Highlights
-- 추천 시스템 프로젝트, **동아일보 기사 소개**  
+- 추천 시스템 프로젝트, **동아일보 기사 소개**
+
 👉 https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont
 
 ---
@@ -68,11 +69,13 @@
 ## 🧠 Algorithm
 
 ### 개인 학습
-- 프로그래머스 문제 풀이  
+- 프로그래머스 문제 풀이
+
 👉 https://github.com/jhyungit/coding_test_practice
 
 ### 스터디 운영
-- SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유  
+- SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유
+
 👉 https://github.com/jhyungit/SsafyDevCT
 
 ---
