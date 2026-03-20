@@ -6,6 +6,12 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Backend-Developer-4F8CC9?style=flat-square" />
+  <img src="https://img.shields.io/badge/SSAFY-15th-6A5ACD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-Python-2E8B57?style=flat-square" />
+</p>
+
+<p align="center">
   <a href="https://solved.ac/kyn05165">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyn05165" height="150"/>
   </a>
@@ -26,7 +32,7 @@
 
 ## 🔧 Tech Stack
 
-### 💻 Backend
+### 💻 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
