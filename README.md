@@ -60,7 +60,7 @@
 ---
 
 ## 🏆 Highlights
-- 추천 시스템 프로젝트, **동아일보 기사 소개**
+- 추천 시스템 프로젝트, **동아일보 기사 소개**  
 👉 https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont
 
 ---
