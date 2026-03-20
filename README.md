@@ -42,8 +42,8 @@
 ## 📌 Main Projects
 
 ### 🍽 콘텐츠 기반 추천 시스템
-- 콘텐츠 기반 필터링 추천 시스템 설계 및 구현  
-- 사용자 특성 기반 추천 로직 개발  
+- 콘텐츠 기반 필터링 추천 시스템 설계 및 구현
+- 사용자 특성 기반 추천 로직 개발
 - Cosine Similarity 기반 유사도 계산 적용
 
 👉 https://github.com/jhyungit/Final_project
@@ -54,12 +54,13 @@
 - 머신러닝 회귀 모델을 활용한 연봉 예측  
 - 데이터 전처리 및 시각화 수행
 - Linear Regression / RandomForest 모델 비교 분석
+
 👉 https://github.com/jhyungit/ML_baseball_project
 
 ---
 
 ## 🏆 Highlights
-- 추천 시스템 프로젝트, **동아일보 기사 소개**   
+- 추천 시스템 프로젝트, **동아일보 기사 소개**
 👉 https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont
 
 ---
@@ -67,11 +68,11 @@
 ## 🧠 Algorithm
 
 ### 개인 학습
-- 프로그래머스 문제 풀이  
+- 프로그래머스 문제 풀이
 👉 https://github.com/jhyungit/coding_test_practice
 
 ### 스터디 운영
-- SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유  
+- SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유
 👉 https://github.com/jhyungit/SsafyDevCT
 
 ---
