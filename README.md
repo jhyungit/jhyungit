@@ -5,6 +5,12 @@
   🔗 https://jhyungit.github.io/
 </p>
 
+<p align="center">
+  <a href="https://solved.ac/kyn05165">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyn05165" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -35,23 +41,22 @@
 ## 📌 Main Projects
 
 ### 🍽 콘텐츠 기반 추천 시스템
-- 사용자 특성을 기반으로 추천 시스템 구현
-- 콘텐츠 기반 필터링 로직 설계 및 구현  
-👉 [프로젝트 보기](https://github.com/jhyungit/Final_project)
+- 콘텐츠 기반 필터링 추천 시스템 설계 및 구현  
+- 사용자 특성 기반 추천 로직 개발  
+👉 (https://github.com/jhyungit/Final_project)
 
 ---
 
 ### 📊 MLB 연봉 예측 프로젝트
-- 머신러닝 회귀 모델을 활용한 연봉 예측
+- 머신러닝 회귀 모델을 활용한 연봉 예측  
 - 데이터 전처리 및 시각화 수행
-- 데이터 기반 예측 모델 구현 및 성능 분석  
-👉 [프로젝트 보기](https://github.com/jhyungit/ML_baseball_project)
+👉 (https://github.com/jhyungit/ML_baseball_project)
 
 ---
 
 ## 🏆 Highlights
-- 콘텐츠 기반 추천 시스템 프로젝트, **동아일보 기사에 소개된 프로젝트**  
-👉 [기사 보기](https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont)
+- 추천 시스템 프로젝트, **동아일보 기사 소개**   
+👉 (https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont)
 
 ---
 
@@ -59,11 +64,18 @@
 
 ### 개인 학습
 - 프로그래머스 문제 풀이  
-👉 [coding_test_practice](https://github.com/jhyungit/coding_test_practice)
+👉 (https://github.com/jhyungit/coding_test_practice)
 
 ### 스터디 운영
 - SSAFY 코딩테스트 대비 스터디 운영 및 문제 풀이 공유  
-👉 [SsafyDevCT](https://github.com/jhyungit/SsafyDevCT)
+👉 (https://github.com/jhyungit/SsafyDevCT)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyungit&layout=compact" />
+</p>
 
 ---
 
