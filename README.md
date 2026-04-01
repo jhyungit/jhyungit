@@ -86,12 +86,5 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhyungit&layout=compact&hide=Jupyter%20Notebook" />
-</p>
-
----
-
 ## 📫 Contact
 - Email: kyn05165@naver.com
