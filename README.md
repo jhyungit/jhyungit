@@ -47,8 +47,6 @@
 
 ---
 
-<img src="https://github.com/jhyungit/jhyungit/blob/output/github-snake-dark.svg" width="100%">
-
 ## 🔧 Tech Stack
 
 ### 💻 Language
@@ -124,3 +122,5 @@
     <img src="https://img.shields.io/badge/Portfolio-jhyungit.github.io-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<img src="https://github.com/jhyungit/jhyungit/blob/output/github-snake-dark.svg" width="100%">
