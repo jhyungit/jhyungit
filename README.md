@@ -123,4 +123,4 @@
   </a>
 </p>
 
-<img src="https://github.com/jhyungit/jhyungit/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/jhyungit/jhyungit/output/github-snake-dark.svg" width="100%">
