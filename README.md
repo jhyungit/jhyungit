@@ -47,6 +47,8 @@
 
 ---
 
+<img src="https://github.com/jhyungit/jhyungit/blob/output/github-snake-dark.svg" width="100%">
+
 ## 🔧 Tech Stack
 
 ### 💻 Language
