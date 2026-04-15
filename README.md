@@ -41,7 +41,8 @@
 |------|------|
 | 🎓 **학력** | 명지대학교 정보통신공학과 졸업 (2022) |
 | 🏫 **교육** | SSAFY 15기 Java 전공반 · T-academy 빅데이터 분석가 과정 수료 |
-| 💼 **경험** | 기업은행 IT그룹 청년인턴 · 달리셔스 기업연계 프로젝트 |
+| 💼 **경험** | 기업은행 IT그룹 청년인턴 (우수인턴 선정) · 달리셔스 기업연계 프로젝트 |
+| 🌏 **해외** | 호주 어학연수 11개월 (ILSC Sydney) · 현지 레스토랑 취업 경험 |
 | 🛠 **핵심** | 데이터 기반 의사결정 · 서비스 기획 · 이해관계자 커뮤니케이션 |
 | 📜 **자격** | 정보처리기사 · SQLD · OPIc IH |
 
@@ -52,14 +53,21 @@
 ### 💻 Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🗄️ Backend & Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ### 📊 Data & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -75,7 +83,7 @@
 - Content-based Filtering + 하이브리드 모델로 **작업 효율 90% 개선**
 - 기존 작업시간 **30분 → 3분**으로 단축
 - Cosine Similarity 기반 유사도 계산 적용
-- **신규 고객 2만명 보유 고객사 계약 확보** 성과
+- **신규 고객 2만명 보유 고객사(SPARKPLUS) 계약 확보** 성과
 - 📰 [**동아일보 기사 소개**](https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont)
 
 🔗 [GitHub Repository](https://github.com/jhyungit/Final_project)
@@ -86,8 +94,31 @@
 > IT그룹에서 타 금융사 슈퍼앱 벤치마킹 및 서비스 개선안 제안
 
 - 카카오뱅크·토스 등 슈퍼앱 기능 분석 및 벤치마킹
-- Figma 기반 프로토타입 설계
-- 기업은행 특성에 맞는 서비스 흐름 개선안 도출
+- i-ONE Bank, Box POS 등 **4개 앱 통합** 슈퍼앱 Figma 프로토타입 설계
+- 개인고객/기업고객 특성을 반영한 Flowchart 로직 설계
+- **IT본부장 참석 최종 발표에서 우수팀 선정**
+
+---
+
+### 🤖 생성형 AI 기반 암표거래 방지 서비스 기획
+> 고객 여정 지도 기반 AI 서비스 개선안 도출
+
+- 회원가입~결제까지 예매 절차를 상세 프롬프트로 구조화
+- 페르소나 기반 고객 여정 지도 작성
+- Face ID 해시 저장 기반 인증·추적 기능 제안
+- **기술 스택**: Gemini, Figma
+
+---
+
+### 🌐 React 기반 개인 웹 포트폴리오
+> 컴포넌트 단위 UI 설계 및 GitHub Pages 배포
+
+- 재사용성·유지보수를 고려한 컴포넌트 구조 설계
+- 공통 CSS 스타일로 화면 전반의 일관성 유지
+- Figma 프로토타입 사전 설계 후 실제 구현
+- **기술 스택**: React, Vite, CSS, GitHub Pages
+
+🔗 [Portfolio Site](https://jhyungit.github.io/)
 
 ---
 
@@ -107,7 +138,9 @@
 |------|------|
 | 📰 **동아일보 보도** | 추천 시스템 프로젝트 기사 소개 ([링크](https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont)) |
 | 🤝 **고객사 계약** | 프로젝트 성과로 신규 고객 2만명 보유 고객사 계약 확보 |
+| 🏅 **IBK 우수인턴** | IT본부장 참석 최종 발표 우수팀 선정 · 우수인턴 선정 |
 | 🏫 **SSAFY 반장** | 15기 Java 전공 11반 반장 · 코딩테스트 스터디 운영 |
+| 🌟 **삼성전자 간담회** | 우수 교육생으로 추천되어 삼성전자 임직원 간담회 참석 |
 | 🏅 **백준 Gold II** | 알고리즘 꾸준한 성장 중 |
 
 ---
