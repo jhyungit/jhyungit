@@ -42,7 +42,7 @@
 | 🎓 **학력** | 명지대학교 정보통신공학과 졸업 (2022) |
 | 🏫 **교육** | SSAFY 15기 Java 전공반 · T-academy 빅데이터 분석가 과정 수료 |
 | 💼 **경험** | 기업은행 IT그룹 청년인턴 (우수인턴 선정) · 달리셔스 기업연계 프로젝트 |
-| 🌏 **해외** | 호주 어학연수 11개월 (ILSC Sydney) · 현지 레스토랑 취업 경험 |
+| 🌏 **해외** | 호주 어학연수 약 1년 (ILSC Sydney) |
 | 🛠 **핵심** | 데이터 기반 의사결정 · 서비스 기획 · 이해관계자 커뮤니케이션 |
 | 📜 **자격** | 정보처리기사 · SQLD · OPIc IH |
 
@@ -58,6 +58,8 @@
 ### 🗄️ Backend & Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+> 🌱 현재 SSAFY에서 Servlet → JSP → Spring 순으로 백엔드 학습 중
+
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -67,11 +69,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -141,7 +143,7 @@
 | 🏅 **IBK 우수인턴** | IT본부장 참석 최종 발표 우수팀 선정 · 우수인턴 선정 |
 | 🏫 **SSAFY 반장** | 15기 Java 전공 11반 반장 · 코딩테스트 스터디 운영 |
 | 🌟 **삼성전자 간담회** | 우수 교육생으로 추천되어 삼성전자 임직원 간담회 참석 |
-| 🏅 **백준 Gold II** | 알고리즘 꾸준한 성장 중 |
+
 
 ---
 
