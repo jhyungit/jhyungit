@@ -1,7 +1,7 @@
 <h1 align="center">👋 안녕하세요, 건강한 개발자 이정현입니다</h1>
 
 <p align="center">
-  데이터 기반 문제 해결과 백엔드 개발을 지향합니다 🚀<br/>
+  데이터 기반 문제 해결과 개발을 지향합니다 🚀<br/>
   <a href="https://jhyungit.github.io/">🌐 포트폴리오 바로가기</a>
 </p>
 
