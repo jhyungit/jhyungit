@@ -12,10 +12,6 @@
   <img src="https://img.shields.io/badge/OPIc-IH-FF6F00?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhyungit&color=6A5ACD&style=flat-square&label=Profile+Views" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
