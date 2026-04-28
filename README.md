@@ -102,7 +102,7 @@
 
 <p align="center">
   <a href="https://solved.ac/kyn05165">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyn05165" height="150"/>
+    <img src="src/png/bojBadge.png" height="150"/>
   </a>
 </p>
 
