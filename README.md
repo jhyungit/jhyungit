@@ -7,11 +7,17 @@
 
 <p align="center">
   <a href = "https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">
-     <img src="https://img.shields.io/badge/SSAFY-15기 Java 전공-6A5ACD?style=flat-square" />
+    <img src="https://img.shields.io/badge/SSAFY-15기 Java 전공-6A5ACD?style=flat-square" />
   </a>
-  <img src="https://img.shields.io/badge/정보처리기사-합격-2E8B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQLD-합격-2E8B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/OPIc-IH-FF6F00?style=flat-square" />
+  <a href = "https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC"">
+    <img src="https://img.shields.io/badge/정보처리기사-합격-2E8B57?style=flat-square" />
+  </a>
+  <a href = "https://namu.wiki/w/%EA%B5%AD%EA%B0%80%EA%B3%B5%EC%9D%B8%20SQL%20%EC%A0%84%EB%AC%B8%EA%B0%80#s-4">
+    <img src="https://img.shields.io/badge/SQLD-합격-2E8B57?style=flat-square" />
+  </a>
+  <a href = "https://namu.wiki/w/OPIc">
+    <img src="https://img.shields.io/badge/OPIc-IH-FF6F00?style=flat-square" />
+  </a>
 </p>
 
 ---
