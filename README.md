@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SSAFY-15기 Java 전공-6A5ACD?style=flat-square" />
+  <a href = "https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">
+     <img src="https://img.shields.io/badge/SSAFY-15기 Java 전공-6A5ACD?style=flat-square" />
+  </a>
   <img src="https://img.shields.io/badge/정보처리기사-합격-2E8B57?style=flat-square" />
   <img src="https://img.shields.io/badge/SQLD-합격-2E8B57?style=flat-square" />
   <img src="https://img.shields.io/badge/OPIc-IH-FF6F00?style=flat-square" />
