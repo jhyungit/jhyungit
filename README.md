@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요, 이정현입니다 👋</h1>
 
 <p align="center">
-  데이터를 실제 서비스로 완성하는 백엔드 개발자를 지향합니다 🚀<br/>
+  데이터를 실제 서비스로 완성하는 백엔드 개발을 지향합니다 🚀<br/>
   <a href="https://jhyungit.github.io/">🌐 포트폴리오</a> ·
   <a href="https://tripcrew.duckdns.org">🧳 TripCrew 라이브</a>
 </p>
