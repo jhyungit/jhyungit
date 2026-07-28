@@ -74,7 +74,7 @@
 
 - **조회 성능 최적화**: 관리자 대시보드 회원 조회를 전체 로드 → 서버 페이징 + 복합 인덱스로 개선. 30만 건 기준 **응답 0.473초 → 0.018초 (약 26배)**, `EXPLAIN`으로 filesort 제거 검증
 - **데이터 정합성**: 여행 계획 공동 편집에 낙관적 락 적용 → 동시 수정 충돌 시 409 응답 및 병합 처리
-- **인증/실시간**: JWT + Refresh Token 인증, WebSocket + Redis Pub/Sub 기반 실시간 공동 편집
+- **인증/실시간**: JWT + Refresh Token 인증, WebSocket(STOMP) 기반 실시간 공동 편집
 - **인프라**: Docker Compose(MySQL·Redis·Backend·Caddy) 4컨테이너, AWS EC2 배포, Flyway DB 버전 관리
 - **기술 스택**: Java 17, Spring Boot, MyBatis, MySQL, Redis, Vue 3
 
@@ -83,7 +83,7 @@
 ---
 
 ### 🍽 콘텐츠 기반 메뉴 추천 시스템 | T-academy × 달리셔스
-> 고객 데이터 및 음식 태그 기반 맞춤 추천 시스템 구축 (5인 팀 리딩)
+> 고객 데이터 및 음식 태그 기반 맞춤 추천 시스템 구축 (6인 팀)
 
 - Content-based Filtering + 하이브리드 모델 도입 → **수동 작업 30분 → 3분, 효율 약 90% 개선**
 - Cosine Similarity 기반 유사도 계산으로 추천 정확도 향상
@@ -91,6 +91,20 @@
 - 📰 [동아일보 기사 소개](https://www.donga.com/news/It/article/all/20230503/119128322/1#in_cont)
 
 🔗 [GitHub Repository](https://github.com/jhyungit/Final_project)
+
+---
+
+### 🎮 YORR Arcade | 휴대폰을 컨트롤러로 쓰는 웹 미니게임 모음
+> 🚧 **개발 중 · In Progress** · 노트북이 화면, 휴대폰이 컨트롤러 · 개인 프로젝트
+
+- **휴대폰 센서를 게임 입력으로 변환**: DeviceMotion 가속도가 **14m/s²** 를 넘으면 스윙으로 판정하고, 220ms 쿨다운으로 한 번의 휘두름이 여러 번 잡히는 것을 막는다. 슬래셔는 DeviceOrientation 의 yaw·pitch 를 0~1 좌표로 정규화해 조준에 쓴다
+- **1대 화면 ↔ N대 휴대폰 페어링**: 노트북이 4자리 코드를 발급하면 휴대폰이 접속해 컨트롤러가 된다. Socket.IO 서버는 게임별 방을 **5종 네임스페이스**(페어링·요트·핑퐁·리듬·퀵드로우)로 분리하고, 폰 입력을 같은 방에 중계만 한다. 판정은 화면 쪽이 맡아 서버는 상태 브로드캐스트에 집중
+- **온라인 1:1 대전 3종**: 핑퐁·리듬탭·퀵드로우에 방 코드 매칭을 붙였다. 호스트가 권위를 갖고 시뮬레이션을 돌려 상태를 중계하고, 게스트는 수신 사이를 추측항법으로 보간해 끊김을 없앤다
+- **주사위는 애니메이션이 아니라 강체 물리**: 나올 눈이 이미 정해져 있어도 물리는 그걸 모른다. **화면에 안 그리고 한 번 굴려 최종 자세를 얻고 → 목표 눈이 위로 오도록 눈을 재배치한 뒤 → 되감아 다시 굴린다**. 마지막에 억지로 돌려 맞추는 스냅이 0
+- **진행 예정**: 입장코드 QR, 라운드 타이머·재접속 처리
+- **기술 스택**: React 18, TypeScript, Vite 6, Tailwind v4, Three.js, Node.js, Express, Socket.IO
+
+🔗 [GitHub Repository](https://github.com/jhyungit/yorr-arcade)
 
 ---
 
