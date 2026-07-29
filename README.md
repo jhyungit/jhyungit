@@ -103,7 +103,7 @@
 - **주사위 강체 물리 직접 구현**: 미리 굴려 눈을 재배치하고 되감는 방식으로 결과 스냅 제거
 - **기술 스택**: React 18, TypeScript, Three.js, Node.js, Express, Socket.IO
 
-🔗 [GitHub Repository](https://github.com/jhyungit/yorr-arcade)
+🔗 [Live](https://yorr-arcade.onrender.com/) · [GitHub Repository](https://github.com/jhyungit/yorr-arcade)
 
 ---
 
