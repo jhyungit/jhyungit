@@ -50,13 +50,13 @@
 ### 🗄️ Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 📡 Realtime
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### ⚙️ Infra & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,12 +80,12 @@
 ### 🎮 YORR | 스마트폰 센서 기반 실시간 웹 파티게임
 > 앱 설치·회원가입 없이 폰이 컨트롤러가 되는 파티게임 · 6인 팀 **PM/팀장** · **실서비스 운영**
 
-- **WebSocket 이벤트 프로토콜 설계**: `sys`·`room`·`dice`·`reaction`·`voice` 전 이벤트의 envelope·payload 스키마 **28종을 단독 정의**하고 프론트 미러 타입까지 동기화
+- **WebSocket 이벤트 프로토콜 설계**: `sys`·`room`·`dice`·`reaction`·`voice` 전 이벤트의 envelope·payload 스키마 **30여 종을 단독 정의**하고 프론트 미러 타입까지 동기화
 - **WebRTC 풀메시 음성 채팅**: BE ICE 시그널링부터 FE `voiceMesh`까지 전 구간 구현, coturn TURN 연동 및 배포 환경 재연결 버그 수정
 - **지연 ↔ 공정성 트레이드오프**: 센서 값 전량 전송은 그 자체가 지연이 되므로 동작 판정은 클라이언트에 두고, 조작 가능한 클라이언트를 신뢰하지 않도록 상태·순서·점수의 권한은 서버에 유지
-- **운영 성과**: 2회 배포(7/30·8/5) — **최고 동시접속 80명 · 누적 참여 636건 · 487판**
+- **운영 성과**: 2회 배포(7/30·8/5) — **최고 동시접속 80명 · 누적 참여 635건 · 487판**
 - 개인 프로젝트 [yorr-arcade](https://github.com/jhyungit/yorr-arcade)에서 만든 게임 2종이 **최종 라인업 3종 중 2종으로 채택·이식**
-- **기술 스택**: Java 21, Spring Boot, WebSocket, WebRTC, Redis, MySQL, React, TypeScript, Docker, AWS EC2
+- **기술 스택**: Java 21, Spring Boot, Spring Data JPA, WebSocket, WebRTC, Redis, MySQL, React, TypeScript, Docker, AWS EC2
 
 🔗 [Live](https://yorr.site) · [GitHub Repository](https://github.com/team-yorr/yorr)
 
