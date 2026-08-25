@@ -113,7 +113,7 @@
 - **CI/CD**: 타입체크·빌드·통합테스트 통과 시에만 배포 (Auto-Deploy는 의도적으로 비활성화)
 - **기술 스택**: React, TypeScript, Three.js, Node.js, Express, Socket.IO
 
-🔗 [Live](https://yorr-arcade.onrender.com/) · [GitHub Repository](https://github.com/jhyungit/yorr-arcade)
+🔗 [Live](https://www.yorr.site/) · [GitHub Repository](https://github.com/jhyungit/yorr-arcade)
 
 ---
 
