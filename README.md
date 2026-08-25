@@ -87,7 +87,7 @@
 - 개인 프로젝트 [yorr-arcade](https://github.com/jhyungit/yorr-arcade)에서 만든 게임 2종이 **최종 라인업 3종 중 2종으로 채택·이식**
 - **기술 스택**: Java 21, Spring Boot, Spring Data JPA, WebSocket, WebRTC, Redis, MySQL, React, TypeScript, Docker, AWS EC2
 
-🔗 [Live](https://yorr.site) · [GitHub Repository](https://github.com/team-yorr/yorr)
+🔗 [Live](https://yorr-eight.vercel.app/) · [GitHub Repository](https://github.com/team-yorr/yorr)
 
 ---
 
