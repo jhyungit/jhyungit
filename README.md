@@ -1,7 +1,7 @@
 <h1 align="center">안녕하세요, 이정현입니다 👋</h1>
 
 <p align="center">
-  데이터를 실제 서비스로 완성하는 백엔드 개발을 지향합니다 🚀<br/>
+  실시간 서비스를 설계하고, 쿼리·인덱스로 응답 속도를 개선하는 백엔드 개발자입니다 🚀<br/>
   <a href="https://jhyungit.github.io/">🌐 포트폴리오</a> ·
   <a href="https://yorr.site">🎮 YORR 라이브</a> ·
   <a href="https://tripcrew.duckdns.org">🧳 TripCrew 라이브</a>
@@ -26,16 +26,17 @@
 
 ## 🧑‍💻 About Me
 
-데이터 분석에서 시작해, 분석 결과를 사용자가 쓰는 서비스로 완성하기 위해 백엔드 개발로 영역을 넓혀왔습니다.
-막히면 실행계획(`EXPLAIN`)이나 네트워크 요청 단위까지 직접 파고들어 원인을 확인하고 수치로 검증합니다.
+Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)이나 네트워크 요청 단위까지 직접 파고들어 원인을 확인하고 수치로 검증합니다.
+실시간 통신 규격 설계와 DB 조회 성능 최적화를 주로 다루며, Python 기반 데이터 분석에서 출발한 이력이 있어 데이터 파이프라인 구축 경험도 함께 갖추고 있습니다.
 
 | 항목 | 내용 |
 |------|------|
 | 🎓 **학력** | 명지대학교 정보통신공학과 졸업 |
 | 🏫 **교육** | SSAFY 15기 Java 전공반 (11반 반장) · T-academy 빅데이터 분석가 과정 수료 |
-| 💼 **경험** | IBK기업은행 IT금융개발부 청년인턴 (우수인턴) · 달리셔스 기업연계 프로젝트 (우수상) |
+| 💼 **경험** | IBK기업은행 IT금융개발부 청년인턴 · 달리셔스 기업연계 프로젝트 |
+| 🏆 **수상** | SSAFY 공통 프로젝트 1위 · SSAFY 관통 프로젝트 우수상(2위) · IBK 우수팀·우수인턴 · ASAC 과정 우수상(1위) |
 | 🌏 **해외** | 호주 워킹홀리데이 11개월 · ILSC Sydney 어학연수 17주 (Intermediate → Advanced 수료, 우수 학생 선정) · 현지 레스토랑 근무 |
-| 🛠 **강점** | 실시간 통신 설계 · DB 조회 성능 최적화 · 데이터 기반 문제 해결 |
+| 🛠 **강점** | 실시간 통신 규격 설계 · DB 조회 성능 최적화 · AI 도구 기반 개발 워크플로 |
 | 📜 **자격** | 정보처리기사 · SQLD · OPIc IH |
 
 ---
@@ -44,19 +45,27 @@
 
 ### 💻 Language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 📡 Realtime
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
+### 🤖 AI-Assisted Development
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### ⚙️ Infra & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -70,48 +79,52 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### 🖥️ Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 ---
 
 ## 📌 Main Projects
 
 ### 🎮 YORR | 스마트폰 센서 기반 실시간 웹 파티게임
-> 앱 설치·회원가입 없이 폰이 컨트롤러가 되는 파티게임 · 6인 팀 **PM/팀장** · **실서비스 운영**
+> 앱 설치·회원가입 없이 폰이 컨트롤러가 되는 파티게임 · 6인 팀 **PM/팀장** · **SSAFY 공통 프로젝트 1위** · **실서비스 운영**
 
-- **WebSocket 이벤트 프로토콜 설계**: `sys`·`room`·`dice`·`reaction`·`voice` 전 이벤트의 envelope·payload 스키마 **30여 종을 단독 정의**하고 프론트 미러 타입까지 동기화
-- **WebRTC 풀메시 음성 채팅**: BE ICE 시그널링부터 FE `voiceMesh`까지 전 구간 구현, coturn TURN 연동 및 배포 환경 재연결 버그 수정
+- **WebSocket 이벤트 프로토콜 설계**: `sys`·`room`·`dice`·`reaction`·`voice` 전 이벤트의 envelope·payload 스키마 **28종을 단독 정의**하고 프론트 미러 타입까지 동기화. 규격을 선확정한 덕에 게임 3종 확장 시 페이로드 추가만으로 대응
 - **지연 ↔ 공정성 트레이드오프**: 센서 값 전량 전송은 그 자체가 지연이 되므로 동작 판정은 클라이언트에 두고, 조작 가능한 클라이언트를 신뢰하지 않도록 상태·순서·점수의 권한은 서버에 유지
-- **운영 성과**: 2회 배포(7/30·8/5) — **최고 동시접속 80명 · 누적 참여 635건 · 487판**
-- 개인 프로젝트 [yorr-arcade](https://github.com/jhyungit/yorr-arcade)에서 만든 게임 2종이 **최종 라인업 3종 중 2종으로 채택·이식**
+- **버그를 화면이 아니라 계약 단위로 해결**: 세션↔playerId 매핑과 세션 만료(`SESSION_EXPIRED`) 구분 처리로 대기실 연결 화면 멈춤 버그 해결. 관전 화면이 조작보다 먼저 결과를 노출하던 문제는 `shake`/`shaken` 이벤트 계약을 신설해 동일 유형의 순서 역전을 구조적으로 차단
+- **WebRTC 풀메시 음성 채팅**: BE ICE 시그널링부터 FE `voiceMesh`까지 전 구간 구현, coturn TURN 연동 및 배포 환경 재연결 버그 수정
+- **AI 개발 워크플로 구성**: `CLAUDE.md`·`CONTRIBUTING.md`에 코딩 규칙과 커밋·MR 컨벤션을 고정해 6인 팀의 생성 결과 편차를 줄이고, MCP로 Jira·Notion을 연동해 티켓 발급·스프린트 운영·문서화를 자동화. 생성된 결과는 커밋 단위로 직접 확인한 뒤 반영
+- **운영 성과**: 2회 배포(7/30·8/5) — **최고 동시접속 80명 · 누적 참여 635건 · 487판** · 만족도 설문(n=17) 4점 이상 94.1%
+- 개인 프로젝트 [yorr-arcade](https://github.com/jhyungit/yorr-arcade)에서 1인 개발한 게임 2종이 **최종 라인업 3종 중 2종으로 채택** <sub>(팀 서비스로의 이식은 팀원 담당)</sub>
 - **기술 스택**: Java 21, Spring Boot, Spring Data JPA, WebSocket, WebRTC, Redis, MySQL, React, TypeScript, Docker, AWS EC2
 
-🔗 [Live](https://yorr-eight.vercel.app/) · [GitHub Repository](https://github.com/team-yorr/yorr)
+🔗 [Live](https://yorr.site) · [GitHub Repository](https://github.com/team-yorr/yorr)
 
 ---
 
 ### 🧳 TripCrew | 여행 계획 협업 플랫폼
 > Spring Boot 기반 협업 서비스 · 2인 팀 · **우수상 (7팀 중 2위)** · AWS 배포 운영 중
 
-- **조회 성능 최적화**: 관리자 회원 조회를 전체 로드 → 서버 페이징 + 복합 인덱스로 개선. 30만 건 기준 **응답 0.473초 → 0.018초 (약 26배)**, `EXPLAIN`으로 filesort 제거 검증
-- **데이터 정합성**: 여행 계획 공동 편집에 낙관적 락 적용 → 동시 수정 충돌 시 409 응답 및 병합 처리
-- **인증/실시간**: JWT + Refresh Token 인증, WebSocket(STOMP) 기반 실시간 공동 편집
-- **인프라**: Docker Compose 4컨테이너(MySQL·Redis·Backend·Caddy), AWS EC2 배포, Flyway DB 버전 관리
-- **기술 스택**: Java 17, Spring Boot, MyBatis, MySQL, Redis, Vue 3
+- **조회 성능 최적화**: 관리자 회원 조회를 전체 로드 → 서버 페이징 + `(role, created_at)` 복합 인덱스로 개선. 30만 건 기준 **응답 0.473초 → 0.018초 (약 26배)**, `EXPLAIN`으로 `type: ALL → ref` 전환과 filesort 제거 검증
+- **개선 이후의 한계까지 실측**: 인덱스 적용 후에도 `OFFSET 100000` 구간은 0.244초로 저하되는 것을 확인해, 대용량 페이징의 근본 해법이 커서 방식임을 수치로 확인
+- **데이터 정합성**: 여행 계획 공동 편집에 낙관적 락(version 컬럼) 적용 → 동시 수정 충돌 시 409 응답 및 병합 처리. 충돌이 드문 특성상 비관적 락 대비 성능이 유리하다 판단
+- **인증/실시간**: JWT + Refresh Token 인증, Kakao/Naver 소셜 로그인(OAuth 2.0), WebSocket(STOMP) 기반 실시간 공동 편집
+- **인프라**: Docker Compose 4컨테이너(MySQL·Redis·Backend·Caddy), AWS EC2 배포, Flyway DB 버전 관리(V1~V17)
+- **기술 스택**: Java 17, Spring Boot 3, Spring Security, MyBatis, MySQL 8, Redis, Vue 3
 
 🔗 [Live](https://tripcrew.duckdns.org) · [GitHub Repository](https://github.com/tripcrew/tripcrew)
 
 ---
 
 ### 🕹️ YORR Arcade | 휴대폰을 컨트롤러로 쓰는 웹 미니게임 모음
-> 개인 프로젝트 · 게임 5종 · **2종이 팀 서비스 YORR에 채택**
+> 개인 프로젝트 · **1인 개발** · 게임 5종 · **2종이 팀 서비스 YORR에 채택**
 
+- **Node.js·Express·Socket.IO 실시간 서버 구현**: 방 관리와 이벤트 중계를 직접 설계하고, 클라이언트와의 통신 규약을 정의
 - **휴대폰 센서를 게임 입력으로**: DeviceMotion 가속도 **14m/s²** 임계로 스윙 감지(중력 저역통과 제거 + 히스테리시스), DeviceOrientation으로 조준
 - **주사위 강체 물리 직접 구현**: 미리 굴려 눈을 재배치하고 되감는 방식으로 결과 스냅 제거. **500판 시뮬레이션**으로 감쇠를 조정해 구르는 시간 1.08초 → 1.52초
 - **권위 모델 3종**: 턴제는 서버 권위, 1:1 대전은 호스트 권위 + 게스트 추측항법 보간, 폰 페어링은 단순 중계
 - **CI/CD**: 타입체크·빌드·통합테스트 통과 시에만 배포 (Auto-Deploy는 의도적으로 비활성화)
-- **기술 스택**: React, TypeScript, Three.js, Node.js, Express, Socket.IO
+- **기술 스택**: Node.js, Express, Socket.IO, React, TypeScript, Three.js
 
 🔗 [Live](https://yorr-arcade.onrender.com/) · [GitHub Repository](https://github.com/jhyungit/yorr-arcade)
 
