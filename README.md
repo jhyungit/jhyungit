@@ -153,7 +153,7 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
 
 ## 🏅 Algorithm
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://solved.ac/kyn05165">
     <img src="https://img.shields.io/badge/solved.ac-Gold_I-E5A036?style=for-the-badge" />
   </a>
@@ -162,6 +162,12 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
   </a>
   <a href="https://solved.ac/kyn05165">
     <img src="https://img.shields.io/badge/solved-129-4E5968?style=for-the-badge" />
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://solved.ac/kyn05165">
+    <img src="src/png/bojBadge.png" height="150"/>
   </a>
 </p>
 
