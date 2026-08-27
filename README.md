@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">
-    <img src="https://img.shields.io/badge/SSAFY-15기 Java 전공-6A5ACD?style=flat-square" />
+    <img src="https://img.shields.io/badge/SSAFY-15기_Java_전공-6A5ACD?style=flat-square" />
   </a>
   <a href="https://namu.wiki/w/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC">
     <img src="https://img.shields.io/badge/정보처리기사-합격-2E8B57?style=flat-square" />
@@ -109,7 +109,7 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
 ---
 
 ### 🧳 TripCrew | 여행 계획 협업 플랫폼
-> Spring Boot 기반 협업 서비스 · 2인 팀 · **우수상 (7팀 중 2위)** · AWS 배포 운영 중 <sub>(SSAFY 관통 프로젝트 · 수료 증명서상 명칭 `EnjoyTrip`)</sub>
+> Spring Boot 기반 협업 서비스 · 2인 팀 · **우수상 (7팀 중 2위)** · AWS 배포 운영 중 <sub>(SSAFY 관통 프로젝트 · 수료 증명서상 명칭 EnjoyTrip)</sub>
 
 - **조회 성능 최적화**: 관리자 회원 조회를 전체 로드 → 서버 페이징 + `(role, created_at)` 복합 인덱스로 개선. 30만 건 기준 **응답 0.473초 → 0.018초 (약 26배)**, `EXPLAIN`으로 `type: ALL → ref` 전환과 filesort 제거 검증
 - **개선 이후의 한계까지 실측**: 인덱스 적용 후에도 `OFFSET 100000` 구간은 0.244초로 저하되는 것을 확인해, 대용량 페이징의 근본 해법이 커서 방식임을 수치로 확인
@@ -183,4 +183,8 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/jhyungit/jhyungit/output/github-snake-dark.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhyungit/jhyungit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhyungit/jhyungit/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jhyungit/jhyungit/output/github-snake.svg" width="100%" alt="contribution snake" />
+</picture>
