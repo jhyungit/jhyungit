@@ -22,6 +22,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://jhyungit.github.io/">
+    <img src="src/png/preview_banner.png" width="100%" alt="포트폴리오 미리보기" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -31,7 +37,7 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
 
 | 항목 | 내용 |
 |------|------|
-| 🎓 **학력** | 명지대학교 정보통신공학과 졸업 |
+| 🎓 **학력** | 명지대학교 정보통신공학과 졸업 (2022.02) |
 | 🏫 **교육** | SSAFY 15기 Java 전공반 (11반 반장) · T-academy 빅데이터 분석가 과정 수료 |
 | 💼 **경험** | IBK기업은행 IT금융개발부 청년인턴 · 달리셔스 기업연계 프로젝트 |
 | 🏆 **수상** | SSAFY 공통 프로젝트 1위 · SSAFY 관통 프로젝트 우수상(2위) · IBK 우수팀·우수인턴 · ASAC 과정 우수상(1위) |
@@ -103,7 +109,7 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
 ---
 
 ### 🧳 TripCrew | 여행 계획 협업 플랫폼
-> Spring Boot 기반 협업 서비스 · 2인 팀 · **우수상 (7팀 중 2위)** · AWS 배포 운영 중
+> Spring Boot 기반 협업 서비스 · 2인 팀 · **우수상 (7팀 중 2위)** · AWS 배포 운영 중 <sub>(SSAFY 관통 프로젝트 · 수료 증명서상 명칭 `EnjoyTrip`)</sub>
 
 - **조회 성능 최적화**: 관리자 회원 조회를 전체 로드 → 서버 페이징 + `(role, created_at)` 복합 인덱스로 개선. 30만 건 기준 **응답 0.473초 → 0.018초 (약 26배)**, `EXPLAIN`으로 `type: ALL → ref` 전환과 filesort 제거 검증
 - **개선 이후의 한계까지 실측**: 인덱스 적용 후에도 `OFFSET 100000` 구간은 0.244초로 저하되는 것을 확인해, 대용량 페이징의 근본 해법이 커서 방식임을 수치로 확인
@@ -147,37 +153,17 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
 
 - i-ONE Bank 등 **4개 앱 통합** 슈퍼앱 Figma 프로토타입 설계
 - 개인고객/기업고객 특성을 반영한 Flowchart 로직 설계 (금융홈·포스홈 분리)
-- **IT본부장 참석 최종 발표에서 우수팀 선정 및 우수인턴 수료**
+- **IT부서장 참석 최종 발표에서 우수팀 선정 및 우수인턴 수료**
 
 ---
 
 ## 🏅 Algorithm
 
-<!-- <p align="center">
-  <a href="https://solved.ac/kyn05165">
-    <img src="https://img.shields.io/badge/solved.ac-Gold_I-E5A036?style=for-the-badge" />
-  </a>
-  <a href="https://solved.ac/kyn05165">
-    <img src="https://img.shields.io/badge/rating-1407-E5A036?style=for-the-badge" />
-  </a>
-  <a href="https://solved.ac/kyn05165">
-    <img src="https://img.shields.io/badge/solved-129-4E5968?style=for-the-badge" />
-  </a>
-</p> -->
-
 <p align="center">
   <a href="https://solved.ac/kyn05165">
     <img src="src/png/bojBadge.png" height="150"/>
   </a>
 </p>
-
-<!-- 기존 정적 이미지 배지 (필요 시 복원)
-<p align="center">
-  <a href="https://solved.ac/kyn05165">
-    <img src="src/png/bojBadge.png" height="150"/>
-  </a>
-</p>
--->
 
 <p align="center">
   <a href="https://github.com/jhyungit/coding_test_practice">💻 프로그래머스 풀이 저장소</a> ·
