@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/SSAFY-15기_Java_전공-6A5ACD?style=flat-square" />
   <img src="https://img.shields.io/badge/정보처리기사-합격-2E8B57?style=flat-square" />
   <img src="https://img.shields.io/badge/SQLD-합격-2E8B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/ADsP-합격-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/ADsP-%ED%95%A9%EA%B2%A9-2E8B57?style=flat-square" alt="ADsP 합격" />
   <img src="https://img.shields.io/badge/OPIc-IH-FF6F00?style=flat-square" />
 </p>
 
