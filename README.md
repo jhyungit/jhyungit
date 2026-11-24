@@ -42,7 +42,7 @@ Spring Boot 기반 API 서버를 설계하고, 막히면 실행계획(`EXPLAIN`)
 | 💼&nbsp;**경험** | IBK기업은행 IT금융개발부 청년인턴 · 달리셔스 기업연계 프로젝트 |
 | 🌏&nbsp;**해외** | 호주 워킹홀리데이 11개월 · ILSC Sydney 어학연수 17주 (Intermediate → Advanced 수료, 우수 학생 선정) |
 | 🛠&nbsp;**강점** | 실시간 통신 규격 설계 · DB 조회 성능 최적화 · AI 도구 기반 개발 워크플로 |
-| 📜&nbsp;**자격** | 정보처리기사 · SQLD · OPIc IH |
+| 📜&nbsp;**자격** | 정보처리기사 · SQLD · ADsP · OPIc IH |
 
 ---
 
